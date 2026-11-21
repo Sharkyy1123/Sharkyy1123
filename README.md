@@ -2,6 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Vaishaakh%20Subramannian&fontSize=44&fontAlignY=38&animation=fadeIn&desc=making%20it%20from%20a%20cave&descAlignY=58&descSize=20)
 
+
+<div align="center">
+  <img src="ascii-art.png" alt="ascii art" width="700" />
+</div>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=CS+Student+@+VIT+Vellore;ESP32+%2B+IoT+tinkerer;ML+%2B+deep+learning+projects;Building+stuff+from+a+cave+%F0%9F%95%B3%EF%B8%8F)](https://git.io/typing-svg)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Sharkyy1123&color=36BCF7&style=for-the-badge&label=PROFILE+VIEWS)
