@@ -2,10 +2,10 @@
 
 <h1>Vaishaakh Subramannian</h1>
 
-<code> CS @ VIT Vellore </code>
+<code> </code>
 
 <a href="https://github.com/Sharkyy1123">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&background=05070D&center=true&vCenter=true&width=650&height=50&lines=%3E+booting+vaishaakh.exe...;%3E+CS+student+%40+VIT+Vellore;%3E+building+things+in+the+dark;%3E+status%3A+online+%E2%96%88" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&background=05070D&center=true&vCenter=true&width=650&height=50&lines=%3E+%3E+CS+student+%40+VIT+Vellore;" alt="typing"/>
 </a>
 
 <br/>
