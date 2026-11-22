@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Vaishaakh Subramannian 3</h1>
+<h1>Vaishaakh Subramannian</h1>
 
 <code> CS @ VIT Vellore </code>
 
