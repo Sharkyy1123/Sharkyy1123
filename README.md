@@ -1,8 +1,8 @@
 <div align="center">
 
-<h1>SHARKYY1123</h1>
+<h1>Vaishaakh Subramannian 3</h1>
 
-<code>// making it from a cave</code>
+<code> CS @ VIT Vellore </code>
 
 <a href="https://github.com/Sharkyy1123">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&background=05070D&center=true&vCenter=true&width=650&height=50&lines=%3E+booting+vaishaakh.exe...;%3E+CS+student+%40+VIT+Vellore;%3E+building+things+in+the+dark;%3E+status%3A+online+%E2%96%88" alt="typing"/>
@@ -18,21 +18,8 @@
 
 ---
 
-### `> sys.info`
 
-```ini
-[OPERATOR]
-name      = Vaishaakh Subramannian
-alias     = Sharkyy1123
-origin    = Vellore, Tamil Nadu
-institute = Vellore Institute of Technology
-major     = Computer Science & Engineering
-mode      = learn -> build -> break -> rebuild
 
-[CURRENT_MISSIONS]
-building  = <your current project>
-learning  = <what you're studying>
-seeking   = collabs, open source, cool problems
 ```
 
 ---
@@ -91,6 +78,6 @@ seeking   = collabs, open source, cool problems
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:003b46,100:05070d&height=120&section=footer" width="100%"/>
 
-`// end of transmission`
+
 
 </div>
